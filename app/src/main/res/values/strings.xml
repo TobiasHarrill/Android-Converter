@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Pocket Converter by Tobias</string>
+    <string name="txtTitle">Pocket Converter</string>
+    <string name="btnDistance">Distance</string>
+    <string name="btnTemp">Temperature</string>
+    <string name="btnWeight">Weight</string>
+    <string name="txtDist">Distance</string>
+    <string name="btnConvert">Convert</string>
+    <string name="hintVal">Enter Value</string>
+
+    <string-array name="dist_array">
+        <item>Miles</item>
+        <item>Kilometers</item>
+        <item>Inches</item>
+    </string-array>
+    <string name="btnPound">Pounds</string>
+</resources>
